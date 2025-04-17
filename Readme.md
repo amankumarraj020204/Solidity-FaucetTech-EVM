@@ -1,4 +1,4 @@
-# ⛲ Soldiity Faucet - ERC20 Smart Contract
+# ⛲ Solidity Faucet - ERC20 Smart Contract
 
 This repository contains a **Solidity-based ERC20 Faucet Token Contract** designed for secure, time-restricted token claims. Built for real-world usability, this contract enables users to claim tokens at fixed intervals, supports advanced configurations, and integrates smoothly with Web3 DApps and EVM-compatible chains.
 
